@@ -1,0 +1,3 @@
+﻿  driver.cpp
+C:\Users\PC\source\repos\KMDF Driver2\KMDF Driver2\driver.cpp(192,32): warning C4312: 'type cast': conversion from 'INT32' to 'HANDLE' of greater size
+C:\Users\PC\source\repos\KMDF Driver2\KMDF Driver2\driver.cpp(211,32): warning C4312: 'type cast': conversion from 'INT32' to 'HANDLE' of greater size
